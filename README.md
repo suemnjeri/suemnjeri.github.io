@@ -1,2 +1,4 @@
-# suemnjeri.github.io
+# Susan Maina Portfolio
 A collection of my python projects
+
+
